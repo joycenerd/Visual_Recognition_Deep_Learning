@@ -18,4 +18,6 @@ Testing mAP using yolov5 model with different confidence threshold:
 * conf_thres = 0.01: 0.4172
 * conf_thres = 0.001: 0.4217
 
+[[report](https://github.com/joycenerd/yolov5-svhn-detection/blob/main/docs/REPORT.pdf)] [[code](https://github.com/joycenerd/yolov5-svhn-detection)]
+
 
